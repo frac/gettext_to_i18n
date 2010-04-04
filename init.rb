@@ -1,6 +1,6 @@
 # Include hook code here
 #require 'lib/gettext_to_i18n'
-require 'YAML'
+require 'yaml'
 require File.dirname(__FILE__) + '/../../../config/boot'
 require File.dirname(__FILE__) + '/lib/files'
 
